@@ -6,3 +6,5 @@
 joke.py
 برین و لاین 23 توکنتونو بزارین
 و در لاین 26 ایدی عددی تونو بزارین
+
+Writed by @ApiCli(https://telegram.me/ApiCli)
